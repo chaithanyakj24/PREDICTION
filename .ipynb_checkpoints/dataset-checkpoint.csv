@@ -1,0 +1,701 @@
+S.NO,GENDER,REGION,SSLC MARKS,BOARD,PUC MARKS,BOARD,CGPA,INTERNSHIP,WORK EXPERIENCE,BRANCH,PLACED/NOT PLACED
+1,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes,No, CS, Placed
+2,Male, Rural,78.4, State Board,85, State Board,7.8, No,No, EC, Not Placed
+3,Female, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes,No, IS, Placed
+4,Female, Rural,83.9, State Board,81.6, State Board,7.5, No,No, ME, Not Placed
+5,Female, Rural,79.3, State Board,82, State Board,8.3, Yes,No, CS, Placed
+6,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes,No, EE, Placed
+7,Male, Rural,75.6, ICSE,87.6, ICSE,7.2, No,No, CV, Not Placed
+8,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes,No, IS, Placed
+9,Male, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+10,Female, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+11,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+12,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+13,Male, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+14,Female, Urban,73.8, State Board,83.2, State Board,8.4, Yes, No, CS, Placed
+15,Female, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+16,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+17,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+18,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+19,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+20,Female, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+21,Female, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+22,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+23,Male, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+24,Female, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+25,Male, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+26,Female, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+27,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+28,Male, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+29,Female, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+30,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+31,Male, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+32,Female, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+33,Male, Rural,79.3, CBSE,90.1, CBSE,7.9, No, No, CV, Not Placed
+34,Female, Urban,75.2, State Board,86.3, State Board,8.6, Yes, No, EC, Placed
+35,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, No, CS, Placed
+36,Male, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+37,Female, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+38,Male, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+39,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+40,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+41,Male, CBSE,78.5, State Board,85.5, ICSE,7.3, No, No, CS, Not Placed
+42,Male, Urban,85.2, CBSE,92.3, CBSE,7.9, Yes, No, ME,Placed
+43,Female, Rural,76.3, State Board,80.4, State Board,7.5, No, No, IS,Not Placed
+44,Male, Urban,83.4, ICSE,89.5, ICSE,8.7, Yes, No, CS,Placed
+45,Female, Rural,69.8, State Board,75.6, State Board,6.8, No, No, CV,Not Placed
+46,Male, Urban,82.7, CBSE,91.8, CBSE,8.5, Yes, No, EE,Not Placed
+47,Female, Rural,78.9, State Board,86.7, State Board,7.9, No, No, ME,Not Placed
+48,Male, Urban,89.3, ICSE,92.5, ICSE,8.9, Yes, Yes, CS,Placed
+49,Female, Rural,74.7, CBSE,82.1, CBSE,7.3, No, Yes, IS,Placed
+50,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, Yes, CS, Placed
+51,Female, Rural,78.4, State Board,85, State Board,7.8, No, Yes, EC, Not Placed
+52,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, Yes, IS, Placed
+53,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, Yes, ME, Not Placed
+54,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, Yes, CS, Placed
+55,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+56,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+57,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+58,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+59,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+60,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+61,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+62,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+63,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+64,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+65,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+66,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes,No, EE, Placed
+67,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes,No, CS, Placed
+68,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+69,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+70,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+71,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+72,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+73,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+74,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+75,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, No, IS, Not Placed
+76,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, No, CS, Placed
+77,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+78,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+79,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+80,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+81,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+82,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, No, CV, Not Placed
+83,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, No, EC, Placed
+84,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, No, CS, Placed
+85,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+86,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+87,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+88,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+89,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+90,Male, CBSE,78.5, State Board,85.5, ICSE,7.3, No, No, CS, Not Placed
+91,Female, Rural,79.2, ICSE,86.7, State Board,7,. No, No, CV, Not Placed
+92,Male, Urban,85.2, CBSE,92.3, CBSE,7.9, Yes, No, ME, Placed
+93,Female, Rural,76.3, State Board,80.4, State Board,7.5, No, No, IS, Not Placed
+94,Male, Urban,83.4, ICSE,89.5, ICSE,8.7, Yes, No, CS, Placed
+95,Female, Rural,69.8, State Board,75.6, State Board,6.8, No, No, CV, Not Placed
+96,Male, Urban,82.7, CBSE,91.8, CBSE,8.5, Yes, No, EE, Placed
+97,Female, Rural,78.9, State Board,86.7, State Board,7.9, No, No, ME, Not Placed
+98,Male, Urban,89.3, ICSE,92.5, ICSE,8.9, Yes, Yes, CS, Placed
+99,Female, Rural,74.7, CBSE,82.1, CBSE,7.3, No,No, IS, Not Placed
+100,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes,No, CS, Placed
+101,Female, Rural,78.4, State Board,85, State Board,7.8, No, Yes, EC, Not Placed
+102,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes,No, IS, Placed
+103,Male, Rural,83.9, State Board,81.6, State Board,7.5, No,No, ME, Not Placed
+104,Female, Rural,79.3, State Board,82, State Board,8.3, Yes,No, CS, Placed
+105,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+106,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+107,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+108,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+109,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes,No, CS, Placed
+110,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+111,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+112,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+113,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+114,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+115,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, No, ME, Not Placed
+116,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, No, EE, Placed
+117,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, No, CS, Placed
+118,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+119,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+120,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+121,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+122,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+123,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+124,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+125,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+126,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+127,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+128,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+129,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+130,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+131,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+132,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, No, CV, Not Placed
+133,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, No, EC, Placed
+134,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, No, CS, Placed
+135,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+136,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, No, ME, Placed
+137,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, No, IS, Not Placed
+138,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, No, CS, Placed
+139,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+140,Male, CBSE,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+141,Female, Rural,79.2, ICSE,86.7, State Board,7,No,No,CS,Not Placed
+142,Male, Urban,85.2, CBSE,92.3, CBSE,7.9, Yes, Yes, ME, Placed
+143,Female, Rural,76.3, State Board,80.4, State Board,7.5, No, No, IS, Not Placed
+144,Male, Urban,83.4, ICSE,89.5, ICSE,8.7, Yes, Yes, CS, Placed
+145,Female, Rural,69.8, State Board,75.6, State Board,6.8, No, No, CV, Not Placed
+146,Male, Urban,82.7, CBSE,91.8, CBSE,8.5, Yes, Yes, EE, Placed
+147,Female, Rural,78.9, State Board,86.7, State Board,7.9, No, No, ME, Not Placed
+148,Male, Urban,89.3, ICSE,92.5, ICSE,8.9, Yes, No, CS, Placed
+149,Female, Rural,74.7, CBSE,82.1, CBSE,7.3, No, No, IS, Not Placed
+150,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+151,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+152,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+153,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+154,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+155,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, No, EE, Placed
+156,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+157,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+158,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+159,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+160,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+161,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+162,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+163,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+164,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+165,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+166,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+167,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+168,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+169,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+170,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+171,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, No, EE, Placed
+172,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, No, EC, Placed
+173,Male, Rural,82.5, State Board,86.3, State Board,8, No, No, CS, Placed
+174,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+175,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, No, IS, Not Placed
+176,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, No, CS, Placed
+177,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+178,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+179,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+180,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+181,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+182,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+183,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+184,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+185,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+186,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+187,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+188,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+189,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+190,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+191,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+192,Male, Urban,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+193,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+194,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+195,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+196,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+197,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+198,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, Yes, CS, Placed
+199,Female, Rural,72.8, CBSE,80.4, CBSE,7.9, No, Yes, IS,Placed
+200,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, Yes, CS, Placed
+201,Female, Rural,78.4, State Board,85, State Board,7.8, No, Yes, EC, Not Placed
+202,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, Yes, IS, Placed
+203,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, Yes, ME, Not Placed
+204,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, Yes, CS, Placed
+205,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+206,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+207,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+208,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+209,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+210,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+211,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+212,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+213,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+214,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+215,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, No, ME, Not Placed
+216,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, No, EE, Placed
+217,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, No, CS, Placed
+218,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+219,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+220,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+221,Male, Urban,92.8, State Board,94.7, State Board,9.5, Yes, No, EE, Placed
+222,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, No, EC, Placed
+223,Male, Rural,82.5, State Board,86.3, State Board,8, No, No, CS, Placed
+224,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+225,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, No, IS, Not Placed
+226,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, No, CS, Placed
+227,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+228,Male, Rural,88.9, State Board,87.9, State Board,8.6, No, Yes, EC, Not Placed
+229,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+230,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+231,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+232,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+233,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+234,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+235,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+236,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+237,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+238,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+239,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+240,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+241,Female, Rural,79.2, ICSE,86.7, ICSE,6.4, No, No, EE, Not Placed
+242,Male, Urban,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+243,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+244,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+245,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+246,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, No, EE, Placed
+247,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+248,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+249,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+250,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+251,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+252,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+253,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+254,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+255,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, No, EE, Placed
+256,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+257,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, No, IS, Placed
+258,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, No, EC, Not Placed
+259,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, No, CS, Placed
+260,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, No, ME, Placed
+261,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, No, EE, Placed
+262,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+263,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, No, CS, Placed
+264,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+265,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+266,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+267,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+268,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+269,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+270,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+271,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+272,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+273,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+274,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+275,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+276,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+277,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+278,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+279,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+280,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+281,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+282,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+283,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+284,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+285,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+286,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+287,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+288,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+289,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+290,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+291,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+292,Male, Urban,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+293,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+294,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+295,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+296,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+297,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+298,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+299,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+300,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+301,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+302,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+303,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, Yes, ME, Not Placed
+304,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, Yes, CS, Placed
+305,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+306,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+307,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+308,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+309,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+310,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+311,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+312,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+313,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+314,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+315,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+316,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+317,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+318,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+319,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+320,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+321,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+322,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+323,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+324,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+325,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+326,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+327,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+328,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+329,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+330,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+331,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+332,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+333,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+334,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+335,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+336,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, No, ME, Placed
+337,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, No, IS, Not Placed
+338,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, No, CS,Not Placed
+339,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+340,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, No, CS, Not Placed
+341,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+342,Male, Urban,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+343,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+344,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+345,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+346,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+347,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME,Placed
+348,Female, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+349,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, No, EE, Placed
+350,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, No, EC, Placed
+351,Male, Rural,82.5, State Board,86.3, State Board,8, No, No, CS, Placed
+352,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+353,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, No, IS, Not Placed
+354,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, No, CS, Placed
+355,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+356,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+357,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+358,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+359,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+360,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV,Placed
+361,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+362,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+363,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+364,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+365,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+366,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+367,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+368,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+369,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+370,Male, Urban,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+371,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+372,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+373,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+374,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+375,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+376,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+377,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+378,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+379,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+380,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+381,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+382,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+383,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, No, EE, Placed
+384,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+385,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS,Not Placed
+386,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+387,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+388,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+389,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+390,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+391,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+392,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+393,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME,Placed
+394,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE,Not Placed
+395,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+396,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+397,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+398,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+399,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+400,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+401,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+402,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+403,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, No, EE, Placed
+404,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+405,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, No, IS, Placed
+406,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, No, EC, Not Placed
+407,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, No, CS, Placed
+408,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, No, ME, Placed
+409,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, No, EE, Placed
+410,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+411,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+412,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+413,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+414,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+415,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+416,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+417,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+418,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+419,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+420,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+421,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+422,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+423,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+424,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+425,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+426,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+427,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+428,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+429,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+430,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, No, CV, Not Placed
+431,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, No, EC, Placed
+432,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, No, CS, Placed
+433,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+434,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, No, ME, Placed
+435,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, No, IS, Not
+436,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, No, IS, Placed
+437,Female, Urban,81.9, CBSE,82.1, State Board,7.6, No, No, EC, Not Placed
+438,Male, Urban,84.3, ICSE,85.6, State Board,8.1, Yes, No, CS, Placed
+439,Male, Rural,89.2, ICSE,89.7, State Board,8.6, Yes, No, ME, Placed
+440,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, No, EE, Placed
+441,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+442,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, No, CS, Placed
+443,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+444,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, No, ME, Not Placed
+445,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+446,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+447,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, Yes, CV, Not Placed
+448,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, Yes, IS, Placed
+449,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+450,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+451,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+452,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+453,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+454,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+455,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+456,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+457,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+458,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+459,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+460,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+461,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+462,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+463,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+464,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+465,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, No, ME, Placed
+466,488.Female, Rural,77.4, State Board,90.2, State Board,7.3, No, No, IS, Not Placed
+467,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, No, CS, Placed
+468,Female, Urban,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+469,Male, Urban,78.5, State Board,85.5, State Board,7.3, No, No, CS, Not Placed
+470,Female, Rural,79.2, State Board,86.7, State Board,7.7, No, No, EE, Not Placed
+471,Male, Rural,81.3, CBSE,89.6, CBSE,8.4, Yes, No, ME, Placed
+472,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+473,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+474,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+475,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+476,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+477,Male, Urban,85.1, ICSE,90.9, State Board,8.7, Yes, Yes, CS, Placed
+478,Female, Rural,72.8, CBSE,80.4, State Board,7.4, No, Yes, IS, Not Placed
+479,Male, Urban,87.6, CBSE,95, State Board,8.7, Yes, Yes, CS, Placed
+480,Female, Rural,78.4, State Board,85, State Board,7.8, No, Yes, EC, Not Placed
+481,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes,No, IS, Placed
+482,Male, Rural,83.9, State Board,81.6, State Board,7.5, No,No, ME, Not Placed
+483,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, Yes, CS, Placed
+484,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+485,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+486,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, No, IS, Placed
+487,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, No, EC, Not Placed
+488,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, No, CS, Placed
+489,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, No, ME, Placed
+490,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, No, EE, Placed
+491,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+492,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+493,Male, Urban,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+494,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+495,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+496,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+497,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+498,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+499,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+500,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+501,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+502,Female, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+503,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+504,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+505,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+506,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+507,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+508,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+509,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+510,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+511,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, No, CV, Not Placed
+512,Female, Urban,75.2, State Board,86.3, State Board,8.6, Yes, No, EC, Placed
+513,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, No, CS, Placed
+514,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+515,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+516,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+517,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+518,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+519,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+520,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+521,Male,Rural,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+522,Male, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+523,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+524,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+525,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+526,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+527,Female, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+528,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+529,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+530,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, No, EE, Placed
+531,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, No, EC, Placed
+532,Male, Rural,82.5, State Board,86.3, State Board,8, No, No, CS, Placed
+533,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+534,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+535,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+536,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+537,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+538,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+539,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+540,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+541,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+542,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+543,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+544,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+545,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+546,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+547,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+548,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+549,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+550,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+551,Male, Rural,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+552,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+553,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+554,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+555,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+556,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+557,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+558,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+559,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+560,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+561,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+562,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+563,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+564,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, No, EE, Placed
+565,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+566,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, No, IS, Placed
+567,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+568,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+569,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+570,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+571,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+572,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+573,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+574,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, No, ME, Not Placed
+575,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, No, EE, Placed
+576,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, No, CS, Placed
+577,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+578,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+579,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+580,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, No, EE, Placed
+581,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+582,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+583,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+584,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+585,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+586,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+587,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+588,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+589,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, Yes, EE, Placed
+590,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+591,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+592,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+593,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+594,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+595,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+596,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+597,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+598,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+599,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+600,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+601,Male, Rural,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+602,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+603,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, No, CS, Placed
+604,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+605,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, No, EE, Placed
+606,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+607,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+608,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+609,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+610,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+611,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+612,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, Yes, ME, Not Placed
+613,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, Yes, CS, Placed
+614,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+615,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+616,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+617,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+618,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+619,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes,No, ME, Placed
+620,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes,No, EE, Placed
+621,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No,No, IS, Not Placed
+622,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes,No, CS, Placed
+623,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+624,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+625,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+626,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+627,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+628,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+629,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+630,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+631,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+632,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+633,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+634,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+635,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+636,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+637,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, No, EC, Not Placed
+638,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, No, CV, Placed
+639,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes, No, EE, Placed
+640,Male, Urban,66.8, State Board,83.4, State Board,7.1, No, No, ME, Not Placed
+641,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No, Yes, CV, Not Placed
+642,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes, Yes, EC, Placed
+643,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes, Yes, CS, Placed
+644,Female, Rural,72.5, State Board,87.9, State Board,7.5, No, No, EE, Not Placed
+645,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes, Yes, ME, Placed
+646,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+647,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+648,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+649,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No, Yes, CS, Not Placed
+650,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
+651,Male, Rural,81.3, CBSE,89.6, CBSE,8.4, Yes, Yes, ME, Placed
+652,Female, Rural,73.6, State Board,79.8, State Board,7.6, No, No, IS, Not Placed
+653,Male, Urban,86.2, ICSE,91.5, ICSE,8.8, Yes, Yes, CS, Placed
+654,Female, Rural,68.9, State Board,74.2, State Board,7, No, No, CV, Not Placed
+655,Male, Urban,79.4, CBSE,88.7, CBSE,8, Yes, Yes, EE, Placed
+656,Female, Rural,76.9, State Board,83.2, State Board,7.8, No, No, ME, Not Placed
+657,Male, Urban,85.1, ICSE,90.9, ICSE,8.7, Yes, No, CS, Placed
+658,Female, Rural,72.8, CBSE,80.4, CBSE,7.4, No, No, IS, Not Placed
+659,Male, Urban,87.6, CBSE,95, CBSE,8.7, Yes, No, CS, Placed
+660,Female, Rural,78.4, State Board,85, State Board,7.8, No, No, EC, Not Placed
+661,Male, Urban,92.5, ICSE,90.2, ICSE,9.1, Yes, No, IS, Placed
+662,Male, Rural,83.9, State Board,81.6, State Board,7.5, No, No, ME, Not Placed
+663,Female, Rural,79.3, State Board,82, State Board,8.3, Yes, No, CS, Placed
+664,Male, Urban,88.9, CBSE,92.8, CBSE,9.4, Yes, Yes, EE, Placed
+665,Female, Rural,75.6, ICSE,87.6, ICSE,7.2, No, No, CV, Not Placed
+666,Male, Rural,86.4, State Board,84.1, State Board,8.8, Yes, Yes, IS, Placed
+667,Female, Urban,81.9, CBSE,82.1, CBSE,7.6, No, Yes, EC, Not Placed
+668,Male, Urban,84.3, ICSE,85.6, ICSE,8.1, Yes, Yes, CS, Placed
+669,Male, Rural,89.2, ICSE,89.7, ICSE,8.6, Yes, Yes, ME, Placed
+670,Female, Urban,86.5, State Board,94.3, State Board,8.8, Yes, Yes, EE, Placed
+671,Female, Rural,79.1, CBSE,92.1, CBSE,7.1, No, No, IS, Not Placed
+672,Male, Urban,73.8, State Board,83.2, State Board,8.4, Yes, Yes, CS, Placed
+673,Male, Rural,68.9, State Board,80.4, State Board,6.9, No, No, EC, Not Placed
+674,Male, Urban,77.3, CBSE,96.2, CBSE,7.8, Yes, Yes, ME, Not Placed
+675,Female, Rural,84.7, State Board,86.9, State Board,8.9, Yes, Yes, EE, Placed
+676,Male, Urban,92.3, ICSE,94.1, ICSE,9.1, Yes, Yes, CS, Placed
+677,Female, Rural,70.2, CBSE,81.3, CBSE,7.5, No, No, CV, Not Placed
+678,Male, Urban,75.8, State Board,90.7, State Board,8.2, Yes, No, IS, Placed
+679,Male, Rural,72.6, ICSE,89.4, ICSE,7.9, No, No, ME, Not Placed
+680,Male, Urban,92.8, State Board,94.7, State Board,9.1, Yes, Yes, EE, Placed
+681,Female, Urban,88.3, CBSE,96.4, CBSE,8.3, Yes, Yes, EC, Placed
+682,Male, Rural,82.5, State Board,86.3, State Board,8, No, Yes, CS, Placed
+683,Female, Urban,85.7, State Board,90.8, State Board,8.2, No, No, ME, Not Placed
+684,Male, Rural,79.6, CBSE,83.2, CBSE,7.8, No, Yes, IS, Not Placed
+685,Male, Urban,73.5, State Board,81.3, State Board,8.6, Yes, Yes, CS, Placed
+686,Female, Rural,77.2, ICSE,85.6, ICSE,7.5, No, No, EE, Not Placed
+687,Male, Rural,88.9, State Board,87.9, State Board,8.1, No, Yes, EC, Not Placed
+688,Female, Urban,85.3, CBSE,93.8, CBSE,8.9, Yes, Yes, CV, Placed
+689,Female, Rural,84.7, ICSE,94.2, ICSE,8.2, Yes,No, EE, Placed
+690,Male, Urban,66.8, State Board,83.4, State Board,7.1, No,No, ME, Not Placed
+691,Female, Rural,79.3, CBSE,90.1, CBSE,7.9, No,No, CV, Not Placed
+692,Male, Urban,75.2, State Board,86.3, State Board,8.6, Yes,No, EC, Placed
+693,Male, Urban,85.4, ICSE,95.8, ICSE,8.8, Yes,No, CS, Placed
+694,Female, Rural,72.5, State Board,87.9, State Board,7.5, No,No, EE, Not Placed
+695,Male, Urban,88.6, CBSE,92.4, CBSE,8.2, Yes,No, ME, Placed
+696,Female, Rural,77.4, State Board,90.2, State Board,7.3, No, Yes, IS, Not Placed
+697,Male, Urban,86.7, ICSE,83.5, ICSE,8.9, Yes, Yes, CS, Placed
+698,Female, Rural,71.9, State Board,84.7, State Board,8.1, No, No, EC, Not Placed
+699,Male, Urban,78.5, State Board,85.5, ICSE,7.3, No,No, CS, Not Placed
+700,Female, Rural,79.2, ICSE,86.7, ICSE,7.7, No, No, EE, Not Placed
